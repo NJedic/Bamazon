@@ -19,15 +19,15 @@ CREATE TABLE products (
 ALTER TABLE products AUTO_INCREMENT=1001;
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("Extra Large Rubber Duck", "Toys & Games", 39, 15),
-	("Pizza Slice Pet Costume", "Pet Supplies", 16, 42),
+VALUES ("Extra Large Rubber Duck", "Toys & Games", 39, 1000),
+	("Pizza Slice Pet Costume", "Pet Supplies", 16, 48),
 	("Tiki Drinking Glasses - set of 4", "Home & Kitchen", 20, 36),
 	("Captain Marvel Beach Towel", "Outdoor Recreation", 19, 100),
 	("Banana Saver with Carabiner", "Home & Kitchen", 9, 25),
 	("Women's Novelty Mac & Cheese Crew Socks", "Clothing, Shoes, & Jewelry", 11, 200),
-	("Cactus Beverage Cooler Ring Toss Game", "Toys & Games", 35, 2),
-	("Hamburger Bean Bag Chair", "Home & Kitchen", 69, 10),
-	("Astronaut Cat Crossbody Bag", "Clothing, Shoes, & Jewelry", 26, 1),
+	("Cactus Beverage Cooler Ring Toss Game", "Toys & Games", 35, 250),
+	("Hamburger Bean Bag Chair", "Home & Kitchen", 69, 700),
+	("Astronaut Cat Crossbody Bag", "Clothing, Shoes, & Jewelry", 26, 42),
 	("Giant Rainbow Unicorn Pool Float", "Outdoor Recreation", 80, 17),
 	("Coconut Tree Print Hawaiian Shirt for Pets", "Pet Supplies", 8, 50),
 	("Embroidered Pizza Slice Vintage Baseball Cap", "Clothing, Shoes, & Jewelry", 11, 87);
