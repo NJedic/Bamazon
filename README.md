@@ -19,6 +19,5 @@ This CLI App allows the user to purchase an array of unique products from a fict
 Below you will see a step-by-step rundown of what you can expect this app to do.
 
 1. Initializing the APP
-![Image One](/images/img1.png)
-Format: ![Terminal window with text that reads "node bamazonCustomer.js"](url)
+![alt text](./images/img1.png "Terminal with initial text of 'node bamazonCustomer.js'")
 
