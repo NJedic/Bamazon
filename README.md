@@ -16,6 +16,6 @@ This CLI App allows the user to purchase an array of unique products from a fict
 
 ### A Rundown of the Application's Functionality can be Found Here:
 
-* <a href="http://www.youtube.com/watch?feature=player_embedded&v=j1BwZ4il2Vc
+* YouTube: <a href="http://www.youtube.com/watch?feature=player_embedded&v=j1BwZ4il2Vc
 " target="_blank"><img src="http://img.youtube.com/vi/j1BwZ4il2Vc/0.jpg" 
 alt="Bamazon! Video" width="240" height="180" border="10" /></a>
