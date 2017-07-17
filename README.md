@@ -1,5 +1,7 @@
 # Bamazon!
 
+![Rainbows](https://media.giphy.com/media/3oKIPnCRzNUzlGSfba/giphy.gif)
+
 ## Overview
 
 This CLI App allows the user to purchase an array of unique products from a fictional company known as Bamazon! 
