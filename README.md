@@ -1,6 +1,6 @@
 # Bamazon!
 
-![Rainbows](https://media.giphy.com/media/3oKIPnCRzNUzlGSfba/giphy.gif)
+![Spongebob Rainbows](https://media.giphy.com/media/SKGo6OYe24EBG/giphy.gif)
 
 ## Overview
 
