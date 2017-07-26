@@ -16,7 +16,13 @@ This CLI App allows the user to purchase an array of unique products from a fict
 
 * Open your Terminal and navigate to wherever you have stored all of your files, and prepare to shop! Type *node bamazonCustomer.js* to run the app.
 
-## Functionality
+## Technologies Used
+
+* Node.js
+
+* MySQL
+
+## Application Preview
 
 * A demo video of the app's functionality can be viewed here: 
 
